@@ -239,3 +239,11 @@ The five API endpoints were exercised using FastAPI Swagger UI.
 GitHub: https://github.com/shanmugaprasath05
 
 Project Repository: https://github.com/shanmugaprasath05/StudentPerformanceAPI
+
+## API Screenshots
+
+### Swagger UI
+![Swagger Documentation](screenshots/swagger-docs.png)
+
+### GET Students API Response
+![GET Students](screenshots/get-students.png)
